@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To analyse the circuit and truth table of 4-bit SIPO (serial input parallel output) shift register by using IC 7474 (D flip flop).
