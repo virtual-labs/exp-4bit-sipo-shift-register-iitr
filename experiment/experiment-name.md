@@ -1,1 +1,1 @@
-## Experiment name
+## Design and Verify the 4-Bit Serial In - Parallel Out Shift Registers.
